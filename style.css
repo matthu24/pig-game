@@ -158,6 +158,14 @@ i {
   height: 100px;
   font-size: 30px;
 }
+.double-six{
+  position: absolute;
+  left: 50%;
+  top: 178px;
+  transform: translateX(-50%);
+  height: 100px;
+  font-size: 30px;
+}
 
 
 
