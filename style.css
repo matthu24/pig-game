@@ -141,7 +141,7 @@ i {
 .btn-roll { top: 403px;}
 .btn-hold { top: 467px;}
 
-.dice {
+.dice{
     position: absolute;
     left: 50%;
     top: 178px;
@@ -149,6 +149,17 @@ i {
     height: 100px;
     box-shadow: 0px 10px 60px rgba(0, 0, 0, 0.10);
 }
+
+.one-label{
+  position: absolute;
+  left: 50%;
+  top: 178px;
+  transform: translateX(-50%);
+  height: 100px;
+  font-size: 30px;
+}
+
+
 
 .winner { background-color: #f7f7f7; }
 .winner .player-name { font-weight: 300; color: #EB4D4D; }
